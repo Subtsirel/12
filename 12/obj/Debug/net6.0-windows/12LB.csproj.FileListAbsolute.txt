@@ -1,0 +1,17 @@
+C:\Users\sovik\source\repos\12LB\12LB\bin\Debug\net6.0-windows\12LB.exe
+C:\Users\sovik\source\repos\12LB\12LB\bin\Debug\net6.0-windows\12LB.deps.json
+C:\Users\sovik\source\repos\12LB\12LB\bin\Debug\net6.0-windows\12LB.runtimeconfig.json
+C:\Users\sovik\source\repos\12LB\12LB\bin\Debug\net6.0-windows\12LB.dll
+C:\Users\sovik\source\repos\12LB\12LB\bin\Debug\net6.0-windows\12LB.pdb
+C:\Users\sovik\source\repos\12LB\12LB\obj\Debug\net6.0-windows\12LB.csproj.AssemblyReference.cache
+C:\Users\sovik\source\repos\12LB\12LB\obj\Debug\net6.0-windows\_12LB.Form1.resources
+C:\Users\sovik\source\repos\12LB\12LB\obj\Debug\net6.0-windows\12LB.csproj.GenerateResource.cache
+C:\Users\sovik\source\repos\12LB\12LB\obj\Debug\net6.0-windows\12LB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sovik\source\repos\12LB\12LB\obj\Debug\net6.0-windows\12LB.AssemblyInfoInputs.cache
+C:\Users\sovik\source\repos\12LB\12LB\obj\Debug\net6.0-windows\12LB.AssemblyInfo.cs
+C:\Users\sovik\source\repos\12LB\12LB\obj\Debug\net6.0-windows\12LB.csproj.CoreCompileInputs.cache
+C:\Users\sovik\source\repos\12LB\12LB\obj\Debug\net6.0-windows\12LB.dll
+C:\Users\sovik\source\repos\12LB\12LB\obj\Debug\net6.0-windows\refint\12LB.dll
+C:\Users\sovik\source\repos\12LB\12LB\obj\Debug\net6.0-windows\12LB.pdb
+C:\Users\sovik\source\repos\12LB\12LB\obj\Debug\net6.0-windows\12LB.genruntimeconfig.cache
+C:\Users\sovik\source\repos\12LB\12LB\obj\Debug\net6.0-windows\ref\12LB.dll
